@@ -1,5 +1,4 @@
-<img style="max-width:100%" src="//cdn.thinglink.me/api/image/556143333995446273/1024/10/scaletowidth#tl-556143333995446273;1043138249" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
-<img style="max-width:100%" src="//cdn.thinglink.me/api/image/556442719371657217/1024/10/scaletowidth#tl-556442719371657217;1043138249" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+<img style="max-width:100%" src="//cdn.thinglink.me/api/image/556446371788357633/1024/10/scaletowidth#tl-556446371788357633;1043138249" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
 
 Control Break settings are not supported - column "Assigned to" displayed as normal column.
 
