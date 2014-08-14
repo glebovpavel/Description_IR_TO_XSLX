@@ -38,6 +38,7 @@ footer, header, hgroup, menu, nav, section {
 ol, ul {
   list-style: none;
   text-align: left;  
+  font-size:18px;
 }
 
 table {
@@ -50,7 +51,7 @@ table {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 12em; 
+    width: 14em; 
 }
 
 /*******************************************************************************

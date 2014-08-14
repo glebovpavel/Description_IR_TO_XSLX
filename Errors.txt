@@ -1,0 +1,28 @@
+<img style="max-width:100%" src="//cdn.thinglink.me/api/image/556143333995446273/1024/10/scaletowidth#tl-556143333995446273;1043138249" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+<img style="max-width:100%" src="//cdn.thinglink.me/api/image/556442719371657217/1024/10/scaletowidth#tl-556442719371657217;1043138249" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+
+Control Break settings are not supported - column "Assigned to" displayed as normal column.
+
+Incorrect strings support - leading zero-symbols are lost
+
+What is this nonsense ???
+
+Dates are represented as character strings - no correct date comparison, calculation etc.
+
+Numbers are represented as character strings - no summing, calculation, aggregation etc.
+
+Where are my Aggregations ?
+
+<img style="max-width:100%" src="//cdn.thinglink.me/api/image/556143137060290561/1024/10/scaletowidth#tl-556143137060290561;1043138249" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+
+Correct support of Control Breaks
+
+Headers with build-in Select Lists
+
+Correct strings support - leading zero-symbols are saved, no unexpected conversions.
+
+Dates represents as dates – full support of comparison, calculation etc
+
+Numbers are numbers - you can do any calculations 
+
+All aggregations are displayed
