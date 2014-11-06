@@ -1,4 +1,4 @@
-<img style="max-width:100%" src="//cdn.thinglink.me/api/image/556446371788357633/1024/10/scaletowidth#tl-556446371788357633;1043138249" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+<img style="max-width:100%" src="//cdn.thinglink.me/api/image/586957396392280067/1024/10/scaletowidth#tl-586957396392280067;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
 
 Control Break settings are not supported - column "Assigned to" displayed as normal column.
 
@@ -12,7 +12,7 @@ Numbers are represented as character strings - no summing, calculation, aggregat
 
 Where are my Aggregations ?
 
-<img style="max-width:100%" src="//cdn.thinglink.me/api/image/556143137060290561/1024/10/scaletowidth#tl-556143137060290561;1043138249" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+<img style="max-width:100%" src="//cdn.thinglink.me/api/image/586951519002165251/1024/10/scaletowidth#tl-586951519002165251;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
 
 Correct support of Control Breaks
 
@@ -25,3 +25,11 @@ Dates represents as dates – full support of comparison, calculation etc
 Numbers are numbers - you can do any calculations 
 
 All aggregations are displayed
+
+Highlights are supported
+
+Auto column width
+
+Formats are automatically converted from ORACLE-fromats of report columns
+ 
+Column and Header Aligns!
