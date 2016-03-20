@@ -51,7 +51,7 @@ table {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 20em; 
+    width: 28em; 
 }
 
 /*******************************************************************************
@@ -299,11 +299,11 @@ Full-Width Styles
 
 #header_wrap {
   background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
+  background: -moz-linear-gradient(top, #35622C, #212121);
+  background: -webkit-linear-gradient(top, #35622C, #212121);
+  background: -ms-linear-gradient(top, #35622C, #212121);
+  background: -o-linear-gradient(top, #35622C, #212121);
+  background: linear-gradient(top, #35622C, #212121);
 }
 
 #header_wrap .inner {
@@ -376,7 +376,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: #35622C;
 }
 
 
